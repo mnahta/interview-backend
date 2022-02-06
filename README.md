@@ -1,4 +1,5 @@
 # Interview
+## Check HELP.md for instruction to run the application
 
 ## Objective
 Your assignment is to build an internal API for a fake financial institution using any programming language you prefer (Python / Java preferable).
