@@ -15,6 +15,8 @@ Congratulation! your server must have started now.
 1. While transferring, your account balance should be greater than transfer amount
 2. Only 4 customers ids(1,2,3,4) are configured by default. You can update it from customer.json file in resources
 
+Postman Collection URL: https://www.getpostman.com/collections/565b19c663a5a204a16a
+
 CURLs:
 ## For Create Account
 ```
